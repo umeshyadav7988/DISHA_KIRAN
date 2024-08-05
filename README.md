@@ -1,3 +1,17 @@
+To add screenshots to your GitHub README, you need to first have the images available in your repository. Here's how you can add screenshots to the README:
+
+1. **Place the screenshots in your repository**:
+   - Create a folder named `screenshots` in the root directory of your project.
+   - -![Screenshot (423)](https://github.com/user-attachments/assets/ac287e65-e6b5-4136-b872-5f5272b91ddd)
+
+2. **Update the README to include the screenshots**:
+   - Use the Markdown image syntax to add the screenshots.
+
+Here's the updated README with placeholders for your screenshots:
+
+
+
+
 # Home Page of Disha Kiran
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -82,12 +96,20 @@ This repository contains the source code for the home page of Disha Kiran, built
 - Easy to navigate
 - Built with modern JavaScript (ES6+)
 
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/homepage.png)
+
+### Features Page
+![Features Page](./screenshots/features.png)
+
 ## Installation
 
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/umeshyadav7988/disha-kiran-homepage.git
+git clone https://github.com/your-username/disha-kiran-homepage.git
 cd disha-kiran-homepage
 npm install
 ```
@@ -122,7 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to [umeshyadav7988@gmail.com ](mailto:your-email@example.com).
+For any questions or suggestions, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
 
 ---
 

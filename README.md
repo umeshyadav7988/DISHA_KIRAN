@@ -87,7 +87,7 @@ This repository contains the source code for the home page of Disha Kiran, built
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-username/disha-kiran-homepage.git
+git clone https://github.com/umeshyadav7988/disha-kiran-homepage.git
 cd disha-kiran-homepage
 npm install
 ```
@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to reach out to [umeshyadav7988@gmail.com ](mailto:your-email@example.com).
 
 ---
 
